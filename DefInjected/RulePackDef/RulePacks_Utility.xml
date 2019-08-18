@@ -2,7 +2,7 @@
 <LanguageData>
 
     <DynamicWrapper.rulePack.rulesStrings>
-        <li>r_root->[RULE]</li>
+        <li>r_root-&gt;[RULE]</li>
     </DynamicWrapper.rulePack.rulesStrings>
 
 </LanguageData>

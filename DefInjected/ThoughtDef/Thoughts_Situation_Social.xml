@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
     <Affair.stages.affair.label>不倫</Affair.stages.affair.label>
@@ -58,19 +58,19 @@
 
     <!-- affecting mood -->
     <OpinionOfMyLover.stages.opinion_of_my.label>私の{0} {1}の評価</OpinionOfMyLover.stages.opinion_of_my.label>
-    <OpinionOfMyLover.stages.opinion_of_my.description>恋人の存在が,私をこんな気分にさせてくれる.</OpinionOfMyLover.stages.opinion_of_my.description>
+    <OpinionOfMyLover.stages.opinion_of_my.description>恋人の存在が、私をこんな気分にさせてくれる。</OpinionOfMyLover.stages.opinion_of_my.description>
 
     <BondedAnimalMaster.stages.s_master.label>{0}の主人</BondedAnimalMaster.stages.s_master.label>
-    <BondedAnimalMaster.stages.s_master.description>絆で結ばれた動物の存在が,私の気分を良くしてくれる.</BondedAnimalMaster.stages.s_master.description>
+    <BondedAnimalMaster.stages.s_master.description>絆で結ばれた動物の存在が、私の気分を良くしてくれる。</BondedAnimalMaster.stages.s_master.description>
     <BondedAnimalMaster.stages.master_of.label>{0}の主人</BondedAnimalMaster.stages.master_of.label>
-    <BondedAnimalMaster.stages.master_of.description>絆で結ばれた動物の存在が,私の気分を良くしてくれる.</BondedAnimalMaster.stages.master_of.description>
+    <BondedAnimalMaster.stages.master_of.description>絆で結ばれた動物の存在が、私の気分を良くしてくれる。</BondedAnimalMaster.stages.master_of.description>
 
     <NotBondedAnimalMaster.stages.not_s_master.label>{0}の主人になりたい</NotBondedAnimalMaster.stages.not_s_master.label>
-    <NotBondedAnimalMaster.stages.not_s_master.description>絆で結ばれている私が,主人になるべきなのに.</NotBondedAnimalMaster.stages.not_s_master.description>
+    <NotBondedAnimalMaster.stages.not_s_master.description>絆で結ばれている私が、主人になるべきなのに。</NotBondedAnimalMaster.stages.not_s_master.description>
     <NotBondedAnimalMaster.stages.not_master_of.label>{0}の主人になりたい</NotBondedAnimalMaster.stages.not_master_of.label>
-    <NotBondedAnimalMaster.stages.not_master_of.description>絆で結ばれている私が,主人になるべきなのに.</NotBondedAnimalMaster.stages.not_master_of.description>
+    <NotBondedAnimalMaster.stages.not_master_of.description>絆で結ばれている私が、主人になるべきなのに。</NotBondedAnimalMaster.stages.not_master_of.description>
 
-    <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>{0}と一緒に眠りたい.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
-    <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>パートナーと分かれて寝るのは嫌です.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
+    <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>{0}と一緒に眠りたい。</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
+    <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>パートナーと分かれて寝るのは嫌です。</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
 
 </LanguageData>

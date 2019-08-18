@@ -1,32 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
     <!-- NamerWorld -->
     <NamerWorld.rulePack.rulesStrings>
-	    <li>r_name->[celestial_name]</li>
-	    <li>r_name->[celestial_prefix]・[celestial_name]</li>
+	    <li>r_name-&gt;[celestial_name]</li>
+	    <li>r_name-&gt;[celestial_prefix]・[celestial_name]</li>
 	
-	    <li>r_name->[celestial_name]・[celestial_suffix]</li>
-	    <li>r_name->[world_name_numeric]</li>
-	    <li>r_name->[world_name_numeric]・[celestial_suffix]</li>
-	    <li>r_name(p=0.5)->[celestial_name] [RomanNumeral]</li>
-	    <li>r_name(p=0.5)->[celestial_name]-[RomanNumeral]</li>
-	    <li>r_name(p=0.5)->[celestial_name]-[numbers]号星</li>
-	    <li>r_name->[celestial_name]・[celestial_name]</li>
-	    <li>r_name->[NamePerson]所有の[planet]</li>
+	    <li>r_name-&gt;[celestial_name]・[celestial_suffix]</li>
+	    <li>r_name-&gt;[world_name_numeric]</li>
+	    <li>r_name-&gt;[world_name_numeric]・[celestial_suffix]</li>
+	    <li>r_name(p=0。5)-&gt;[celestial_name] [RomanNumeral]</li>
+	    <li>r_name(p=0。5)-&gt;[celestial_name]-[RomanNumeral]</li>
+	    <li>r_name(p=0。5)-&gt;[celestial_name]-[numbers]号星</li>
+	    <li>r_name-&gt;[celestial_name]・[celestial_name]</li>
+	    <li>r_name-&gt;[NamePerson]所有の[planet]</li>
 	
-	    <li>world_name_numeric->[letters]-[numbers]</li>
-	    <li>world_name_numeric->[letters][numbers]</li>
+	    <li>world_name_numeric-&gt;[letters]-[numbers]</li>
+	    <li>world_name_numeric-&gt;[letters][numbers]</li>
 	
-	    <li>letters->[Letter]</li>
-	    <li>letters->[Letter][Letter]</li>
-	    <li>letters->[Letter][Letter][Letter]</li>
-	    <li>numbers->[Digit]</li>
-	    <li>numbers->[Digit][Digit]</li>
-	    <li>numbers->[Digit][Digit][Digit]</li>
+	    <li>letters-&gt;[Letter]</li>
+	    <li>letters-&gt;[Letter][Letter]</li>
+	    <li>letters-&gt;[Letter][Letter][Letter]</li>
+	    <li>numbers-&gt;[Digit]</li>
+	    <li>numbers-&gt;[Digit][Digit]</li>
+	    <li>numbers-&gt;[Digit][Digit][Digit]</li>
 	
-	    <li>planet->星</li>
-	    <li>planet->惑星</li>
+	    <li>planet-&gt;星</li>
+	    <li>planet-&gt;惑星</li>
     </NamerWorld.rulePack.rulesStrings>
 
 </LanguageData>

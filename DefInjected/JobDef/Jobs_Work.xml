@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
     <!--============= Item hauling ===============-->
@@ -7,7 +7,7 @@
     <HaulToContainer.reportString>TargetA を運搬中</HaulToContainer.reportString>
 
     <!--============= Special hauling ===============-->
-    <Steal.reportString>TargetA を略奪中.</Steal.reportString>
+    <Steal.reportString>TargetA を略奪中。</Steal.reportString>
 
     <Kidnap.reportString>TargetA を誘拐中</Kidnap.reportString>
 

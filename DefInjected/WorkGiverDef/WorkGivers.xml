@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
     <!-- AAA: verb,gerundは不要 -->
@@ -235,7 +235,7 @@
 
     <!-- ============= PlantCutting ============= -->
 
-    <PlantsCut.label>切り倒し,収穫</PlantsCut.label>
+    <PlantsCut.label>切り倒し、収穫</PlantsCut.label>
     <PlantsCut.verb>伐採</PlantsCut.verb>
     <PlantsCut.gerund>を伐採する</PlantsCut.gerund>
 
